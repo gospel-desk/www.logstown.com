@@ -1,7 +1,38 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;800&display=swap');
+/* Fonts
+ * =====
+ * h/t:
+ *	https://github.com/philatype/Sen
+ *  https://fonts.google.com/specimen/Sen
+ *	https://google-webfonts-helper.herokuapp.com/
+ */
+
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/sen-v1-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Sen Regular'), local('Sen-Regular'),
+       url('/assets/fonts/sen-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/sen-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/fonts/sen-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/sen-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/assets/fonts/sen-v1-latin-regular.svg#Sen') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/assets/fonts/sen-v1-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Sen ExtraBold'), local('Sen-ExtraBold'),
+       url('/assets/fonts/sen-v1-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/sen-v1-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/fonts/sen-v1-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/sen-v1-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/assets/fonts/sen-v1-latin-800.svg#Sen') format('svg'); /* Legacy iOS */
+}
 
 $Sen: Sen, sans-serif;
 

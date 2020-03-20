@@ -3,6 +3,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;800&display=swap');
 
+$Sen: Sen, sans-serif;
+
+
+/* Colors
+ * ======
+ */
+
 $white: #DADBD2;
 $black: #21201A;
 $red: #B2342D;
@@ -11,8 +18,6 @@ $gray: #848174;
 $brown: #5B4738;
 $pink: #CA867C;
 
-$Sen: Sen, sans-serif;
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -20,12 +25,19 @@ $Sen: Sen, sans-serif;
 }
 
 body {
-  background: $white;
+  background: $gray;
   text-align: center;
   font: normal 20pt/30pt $Sen;
+  min-width: 320px;
 }
 
-header {
+i {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.top {
+  background: $white;
   img {
     width: 50%;
     max-width: 320px;
@@ -33,118 +45,180 @@ header {
   padding: 15vh 0;
 }
 
-div.products {
-  padding: 1.5em;
+.hero {
+  padding: 15vw 0;
+  text-align: center;
+  background-image: url('/assets/hero.jpg');
+  background-color: $black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $white;
+  h2 {
+    font: bold 36pt/36pt $Sen;
+  }
+  p {
+    padding: 3em 0 0;
+    width: 70%;
+    margin: 0 auto;
+    font: normal 14pt/28pt $Sen;
+  }
 }
 
-section {
+.pieces {
+  background: $gray;
+}
 
-  &.hero {
-    padding: 15vw 1em;
-    text-align: center;
-    background-image: url('/assets/hero.jpg');
-    background-color: $black ;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: $white;
-    h2 {
-      font: bold 36pt/36pt $Sen;
+.content {
+  display: block;
+  color: $black;
+  text-decoration: none;
+  background: $white;
+  box-shadow: $black 0px 2pt 6pt;
+
+  &:hover {
+    box-shadow-color: $pink;
+  }
+
+  text-align: left;
+  width: 90%;
+  max-width: 480pt;
+  padding: 24pt 36pt;
+  margin: 36pt auto;
+
+  &.single {
+    margin: -35vw auto 24pt;
+    padding: 36pt 36pt 48pt;
+  }
+
+  header {
+    text-decoration: none;
+    border-left: 3pt solid $red;
+    padding-left: 6pt;
+    margin-left: -9pt;
+    display: block;
+    position: relative;
+
+    span {
+      float: right;
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      color: $gray;
+      font: normal 10pt/10pt $Sen;
     }
-    p {
-      padding: 3em 0 0;
-      width: 70%;
-      margin: 0 auto;
-      font: normal 14pt/28pt $Sen;
+
+    h4 {
+      margin: 0 0 12pt;
+      border: 0;
+      padding: 0 0 3pt 0;
     }
   }
 
-  &.product {
-    padding: 1.5em 1em;
-    text-align: left;
-    max-width: 640px;
-    margin: 0 auto;
+  h3 {
+    font: bold 24pt/24pt $Sen;
+    margin-bottom: 6pt;
+  }
+  h4 {
+    font: normal 14pt/14pt $Sen;
+    border-left: 2pt solid $pink;
+    margin: 36pt 0 12pt -9pt;
+    padding: 2pt 0 2pt 6pt;
+    clear: both;
+    color: $gray;
+  }
 
-    a.title {
-      color: inherit;
-      text-decoration: none;
-      border-left: 5px solid $red;
-      padding-left: 10px;
-      margin-left: -15px;
-      display: block;
-      &:hover {
-        background: $red;
-        color: $white;
+  ul {
+    margin: 0;
+    li {
+      list-style: none;
+      font: normal 12pt/14pt $Sen;
+      display: inline;
+      &::after {
+        content: " ❧ ";
       }
-    }
-
-    h2 {
-      font: bold 32pt/32pt $Sen;
-      margin-bottom: 6pt;
-    }
-    h3 {
-      font: normal 16pt/16pt $Sen;
-      padding-bottom: 3pt;
-    }
-
-    ul {
-      margin: 0;
-      li {
-        list-style: none;
-        font: normal 12pt/14pt $Sen;
-        display: inline;
-        &::after {
-          content: " ❧ ";
-        }
-        &:last-of-type::after {
-          content: "";
-        }
+      &:last-of-type::after {
+        content: "";
+      }
+      color: $gray;
+      a {
         color: $gray;
-        a {
-          color: $gray;
-        }
       }
     }
+  }
 
-    p {
-      font: normal 12pt/18pt $Sen;
-      text-indent: 2em;
-      &:first-of-type {
-        text-indent: 0;
-      }
+  p {
+    font: normal 12pt/18pt $Sen;
+    text-indent: 24pt;
+    &:first-of-type {
+      text-indent: 0;
     }
+  }
 
-    ol {
-      margin: 0.5em 0 0.5em 2em;
-      li {
-        font: normal 12pt/18pt $Sen;
-        margin-bottom: 0.5em;
-        &:last-of-type {
-          margin-bottom: 0;
-        }
-      }
-    }
-
-    a.read-more {
+  blockquote {
+    clear: both;
+    margin: 0 0 6pt;
+    font: normal 12pt/18pt $Sen;
+    text-indent: -0.5em;
+    padding: 12pt 0;
+    cite {
       float: right;
-      color: $red;
-      font: normal 12pt/18pt $Sen;
-      margin-top: 6pt;
-      padding: 3pt 6pt;
-      &:hover {
-        background: $red;
-        color: $white;
+      font: normal 10pt/18pt $Sen;
+      padding: 0 0 0 18pt;
+      text-indent: -1em;
+      &::before {
+        content: "—";
       }
+    }
+  }
+
+  img {
+    width: 47.5%;
+    margin: 0 5% 0 0;
+    display: block;
+    float: left;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+
+  ol {
+    margin: 0.5em 0 0.5em 2em;
+    li {
+      font: normal 12pt/18pt $Sen;
+      margin-bottom: 0.5em;
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .read-more {
+    float: right;
+    color: $red;
+    font: normal 12pt/18pt $Sen;
+    margin-top: 6pt;
+    padding: 3pt 6pt;
+    &:hover {
+      background: $pink;
+      color: $black;
     }
   }
 }
 
 footer {
-  padding: 2em;
+  padding: 24pt;
   font: normal 12pt/12pt $Sen;
   background: $black;
   color: $white;
   a {
     color: $white;
   }
+}
+
+.clear {
+  clear: both;
+  height: 0pt;
 }

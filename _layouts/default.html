@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/assets/gospel-desk.css">
+
+        <!-- h/t https://favicon.io/ -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+		<meta name="viewport" content="width=device-width" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		{{ page.head }}
+    </head>
+    <body>
+        <header class="top">
+            <h1><a href="/"><img src="/wordmark.svg" alt="Gospel Desk"></a></h1>
+        </header>
+        <section class="hero">
+            {{ page.hero }}
+        </section>
+        {{ content }}
+        <footer>
+            &copy;
+			<script type="text/javascript">
+			  document.write(new Date().getFullYear());
+			</script>
+            Gospel Desk ❧
+            <a href="mailto:chad@zetaweb.com">Chad Whitacre</a>, proprietor
+        </footer>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-247427-34']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>

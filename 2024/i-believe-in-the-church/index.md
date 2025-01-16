@@ -103,7 +103,7 @@ over the past four years (more or less in the order I first visited them):
 1. [St. John the Baptist, Berkeley](https://stjohnthebaptistberkeley.org/) (OCA)
 1. [St. Seraphim Cathedral, Santa Rosa](https://saintseraphim.com/) (OCA)
 1. [St. Anthony, Hendersonville](https://saintanthonyorthodoxwnc.org/) (ACROD)
-1. [St. Vasilios](https://saintvasilios.org/) (GOA)
+1. [St. Vasilios, Watertown](https://saintvasilios.org/) (GOA)
 1. [St. Sophrony, Sequiem](https://orthodoxsequim.com/) (OCA)
 1. [St. Herman, Port Townsend](https://orthodoxporttownsend.com/) (OCA)
 1. [St. Spiridon Cathedral, Seattle](https://saintspiridon.org/) (OCA)

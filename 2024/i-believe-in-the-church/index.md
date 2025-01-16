@@ -65,11 +65,11 @@ brethren.”
 <div class="glide">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
-		<li class="glide__slide"><img src="sea-4.webp"></li>
-		<li class="glide__slide"><img src="sea-5.webp"></li>
 		<li class="glide__slide"><img src="sea-1.webp"></li>
 		<li class="glide__slide"><img src="sea-2.webp"></li>
 		<li class="glide__slide"><img src="sea-3.webp"></li>
+		<li class="glide__slide"><img src="sea-4.webp"></li>
+		<li class="glide__slide"><img src="sea-5.webp"></li>
 		<li class="glide__slide"><img src="sf-1.webp"></li>
 		<li class="glide__slide"><img src="sf-2.webp"></li>
 		<li class="glide__slide"><img src="sf-3.webp"></li>

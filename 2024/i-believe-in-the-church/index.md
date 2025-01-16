@@ -73,14 +73,19 @@ brethren.”
 		<li class="glide__slide"><img src="sf-1.webp"></li>
 		<li class="glide__slide"><img src="sf-2.webp"></li>
 		<li class="glide__slide"><img src="sf-3.webp"></li>
+		<li class="glide__slide"><img src="vie-1.webp"></li>
 		<li class="glide__slide"><img src="vie-2.webp"></li>
+		<li class="glide__slide"><img src="vie-3.webp"></li>
+		<li class="glide__slide"><img src="vie-4.webp"></li>
+		<li class="glide__slide"><img src="vie-5.webp"></li>
+		<li class="glide__slide"><img src="vie-6.webp"></li>
+		<li class="glide__slide"><img src="jc-1.webp"></li>
+		<li class="glide__slide"><img src="jc-2.webp"></li>
+		<li class="glide__slide"><img src="jc-3.webp"></li>
 		<li class="glide__slide"><img src="yyz-1.webp"></li>
 		<li class="glide__slide"><img src="yyz-2.webp"></li>
 		<li class="glide__slide"><img src="yyz-3.webp"></li>
 		<li class="glide__slide"><img src="yyz-4.webp"></li>
-		<li class="glide__slide"><img src="jc-1.webp"></li>
-		<li class="glide__slide"><img src="jc-2.webp"></li>
-		<li class="glide__slide"><img src="jc-3.webp"></li>
     </ul>
   </div>
   <div class="glide__arrows" data-glide-el="controls">
@@ -180,7 +185,9 @@ and the [history of
 autocephaly](https://www.orthodoxhistory.org/2022/05/24/when-did-todays-autocephalous-churches-come-into-being/)
 in particular.
 
-[ pic of putting the ladder back ]
+<div class="image">
+    <img src="ladder.webp">
+</div>
 
 You know what happened right after I filmed the footage for the above feel-good
 video? My buddy and I attempted to fix our church’s leaky roof. It didn’t go

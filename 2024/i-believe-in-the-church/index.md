@@ -1,6 +1,6 @@
 ---
 title: I Believe in the Church
-excerpt: 
+excerpt: Belonging to the Church comes with many weighty complexities, yet Christ is in our midst.
 noindex: true
 layout: post
 ---
@@ -49,8 +49,8 @@ God on the Day of Christ](/2024/lets-be-holy-together/). Wow!
 Our parish also has an icon stand dedicated to the [Twelve Faithful
 Servants](/the-twelve-faithful-servants/). I rotate their icons during the
 year. This is a significant way in which, as my bishop says, Gospel Desk is
-“[of the Church](/about/).” When I share here, online, I hope that in a real
-sense, I do so on behalf of my parish family.
+“[of the Church](/about/).” When I share further afield, especially here
+online, I hope I do so deeply rooted in my parish family.
  
 There are many other ways I share in the life of my parish, but these are my
 main responsibilities.
@@ -168,40 +168,44 @@ life of what is genuine in the Faith. Discovering and navigating Orthodoxy’s
 geopolitical minefield is shocking and discouraging. I confessed outright to
 one of the Russian priests I met—who was wonderfully kind in response—that I
 was scared of him, of trying to find a footing as an American convert in a
-wider Orthodox world storm-tossed between [Russian
-nationalism](https://www.orthodoxhistory.org/2024/04/02/st-john-maximovitch-russian-diaspora/)
-and [a flock-less, overreaching Ecumenical
-Patriarch](https://www.orthodoxhistory.org/2022/10/12/the-origins-of-the-barbarian-lands-theory/).
+wider Orthodox world storm-tossed between the Moscow's [Russkiy
+Mir](https://www.orthodoxhistory.org/2024/04/02/st-john-maximovitch-russian-diaspora/)
+capitulation and Constantinople's "[barbarian
+lands](https://www.orthodoxhistory.org/2022/10/12/the-origins-of-the-barbarian-lands-theory/)"
+neo-papism.
 
 ### Approaching the Hard Parts
 
 What do I do with the mess in the Church? I have no authority. I’m not directly
 responsible for resolving any of this. I do think it’s right for me to be
 informed, especially since I’m publishing more, and traveling. I find [Matthew
-Namee’s writings](https://www.orthodoxhistory.org/) helpful, especially on
+Namee’s writings](https://www.orthodoxhistory.org/) helpful, on
 [recent Orthodox
 history](https://www.orthodoxhistory.org/2023/07/19/how-did-orthodoxy-get-into-this-mess/)
 and the [history of
 autocephaly](https://www.orthodoxhistory.org/2022/05/24/when-did-todays-autocephalous-churches-come-into-being/)
 in particular.
 
+You know what happened right after I filmed the footage for the above feel-good
+video? My buddy and I failed to fix our church’s leaky roof. We wrestled with a
+borrowed commercial ladder for an hour, then decided to fight again another
+day.
+
 <div class="image">
     <img src="ladder.webp">
 </div>
 
-You know what happened right after I filmed the footage for the above feel-good
-video? My buddy and I attempted to fix our church’s leaky roof. It didn’t go
-well and we gave up in frustration. You know what happened at our most recent
-men’s fellowship? One of our inquirers got so upset that he cursed us and
-stormed out. He and I met a couple days later to patch things up, but we still
-have a long way to go. These challenges aren’t accidental, they’re essential to
-the purpose and meaning of parish life. Patiently awaiting God’s redemption is
-the meaning of life.
+You know what happened at our most recent men’s fellowship? One of our
+inquirers got so upset that he cursed us and stormed out. He and I met a couple
+days later to patch things up. We still have a long way to go. These challenges
+aren’t accidental, they’re essential to the purpose and meaning of parish life.
+Patiently awaiting God’s redemption is the meaning of life.
 
 The same is true at higher levels of Church structure. My best contribution as
 a layman is to pray for our hierarchs—really, genuinely love and pray for
-them—and fulfill my own responsibilities under my own priest and bishop. The
-tensions I’ve identified have always been present. Christ came not to bring
+them—and fulfill my own responsibilities under my own priest and bishop.
+
+The tensions I’ve identified have always been present. Christ came not to bring
 peace but a sword. We’re engaged in a struggle not against flesh and blood.
 Once upon a time, the whole world groaned and was astonished to find itself
 Arian. God isn’t surprised. He leads and guides His Church, and the gates of
@@ -209,5 +213,6 @@ hell will not stand against us.
 
 It fills my life with meaning and joy to participate in the Church as a member
 of my parish: in Liturgy and in service to others, in work and in rest, in
-fasting and in feasting, in death and in resurrection. I believe in the Church.
+fasting and in feasting, in patient endurance and in glimpses of glory, in
+death and in resurrection. I believe in the Church, complexities and all.
 Christ is in our midst!

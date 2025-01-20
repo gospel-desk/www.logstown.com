@@ -50,7 +50,7 @@ Our parish also has an icon stand dedicated to the [Twelve Faithful
 Servants](/the-twelve-faithful-servants/). I rotate their icons during the
 year. This is a significant way in which, as my bishop says, Gospel Desk is
 “[of the Church](/about/).” When I share further afield, especially here
-online, I hope I do so deeply rooted in my parish family.
+online, I hope I do so as one deeply rooted in my parish family.
  
 There are many other ways I share in the life of my parish, but these are my
 main responsibilities.
@@ -135,7 +135,7 @@ In fact, that’s pretty much all I have. Most of you who subscribe to the Gospe
 Desk email list, for example, are not Orthodox. Certainly most of the world to
 whom a public blog is available are not Orthodox.
 
-I whole-heartedly believe the Orthodox Church’s scandalous identification of
+I whole-heartedly believe the Orthodox Church’s identification of
 itself with the one, holy, catholic, and apostolic Church of the Nicene Creed,
 exclusive of other bodies. I also want to be gracious, kind, and meek. I don’t
 want to be argumentative, especially online. I want to share fellowship with my
@@ -143,16 +143,22 @@ non-Orthodox family, friends, neighbors, and coworkers to the greatest extent
 possible. This is a weighty tension for me, between togetherness and
 distinctiveness.
 
-Addressing myself to the brethren (forgive me, non-Orthodox friends): given
-that we are the Church, is Fr. Tom the pastor of the 150 souls in St. Nicholas
+Addressing myself to the brethren (forgive me, non-Orthodox friends)—given
+that we _are_ the Church:
+
+- Is Fr. Tom the pastor of the 150 souls in St. Nicholas
 parish, or the 150,000 souls living within the neighborhoods of Pittsburgh from
-which we draw? Is Archbishop Melchisidek the bishop of 5,000 people on the
+which we draw?
+- Is Archbishop Melchisidek the bishop of 5,000 people on the
 diocesan rolls, or an apostle of Christ to 5,000,000 within his diocesan
-territory? Is Metropolitan Tikhon shepherding 85,000 adherents, or laboring in
-a field of 500,000,000, white for harvest? The answer is both, and in this I
-feel a creative tension, an energizing opportunity. It doesn’t take much salt
-to season, or much yeast to leaven. How can we as the Church continually engage
-more fully in the Great Commission?
+territory?
+- Is Metropolitan Tikhon shepherding 85,000 adherents, or laboring in
+a field of 500,000,000, white for harvest?
+
+At every level, the answer is both, and in this I feel a creative tension, an
+energizing opportunity. It doesn’t take much salt to season, or much yeast to
+leaven. How can we as the Church continually engage more fully in the Great
+Commission?
 
 ### The Really Hard Parts
 

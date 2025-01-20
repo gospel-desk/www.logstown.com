@@ -89,8 +89,8 @@ brethren.”
     </ul>
   </div>
   <div class="glide__arrows" data-glide-el="controls">
-    <button class="glide__arrow glide__arrow--left" data-glide-dir="<">◀</button>
-    <button class="glide__arrow glide__arrow--right" data-glide-dir=">">▶</button>
+    <button class="glide__arrow glide__arrow--left" data-glide-dir="<"><span></span> Previous</button>
+    <button class="glide__arrow glide__arrow--right" data-glide-dir=">">Next <span></span></button>
   </div>
 </div>
 <script>new Glide('.glide').mount()</script>
@@ -168,11 +168,8 @@ life of what is genuine in the Faith. Discovering and navigating Orthodoxy’s
 geopolitical minefield is shocking and discouraging. I confessed outright to
 one of the Russian priests I met—who was wonderfully kind in response—that I
 was scared of him, of trying to find a footing as an American convert in a
-wider Orthodox world storm-tossed between the Moscow's [Russkiy
-Mir](https://www.orthodoxhistory.org/2024/04/02/st-john-maximovitch-russian-diaspora/)
-capitulation and Constantinople's "[barbarian
-lands](https://www.orthodoxhistory.org/2022/10/12/the-origins-of-the-barbarian-lands-theory/)"
-neo-papism.
+wider Orthodox world [storm-tossed between Moscow and
+Constantinople](https://www.orthodoxhistory.org/2023/07/19/how-did-orthodoxy-get-into-this-mess/).
 
 ### Approaching the Hard Parts
 

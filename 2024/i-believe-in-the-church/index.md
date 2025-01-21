@@ -164,7 +164,7 @@ Commission?
 
 There are less happy tensions within the Church. Improprieties of various kinds
 lurk in the hierarchical shadows, at times flaring up into scandals of abuse.
-We are currently beset by a terrible schism pitting one aberation
+We are currently beset by a terrible schism pitting one aberration
 (ethnophyletism) against another (false ecumenism). Downstream of this schism
 are the jurisdictional irregularities across the globe that the Great and Holy
 Council, only partly realized, was intended to address.
